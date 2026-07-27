@@ -63,6 +63,8 @@ The dataset contains COVID-19 statistics from **5 countries** and **7 states**.
 - Slicers for Country, State, and Date
 
 ---
+Dsahbord Interaction <a href="<https://github.com/Sidduvinayak/Covid-19-Analysis-Dashboard/commit/33f33868a14303a50ae6dd210f72717bd75eaabf#diff-13cecf186042c0062fee394cbadcaaf9fce8ac01b29d12aaec1b508006b9c131">view Dashboard</a>
+
 
 ## 🔍 Key Insights
 
